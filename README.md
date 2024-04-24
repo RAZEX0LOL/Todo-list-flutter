@@ -1,16 +1,26 @@
-# flutter_app
+# Приложение "Список задач"
 
-A new Flutter project.
+Это простое приложение для управления задачами, созданное с использованием Flutter. Пользователи могут добавлять, изменять, завершать и удалять задачи.
 
-## Getting Started
+## Начало работы
 
-This project is a starting point for a Flutter application.
+Чтобы начать работу с приложением, выполните следующие шаги:
 
-A few resources to get you started if this is your first Flutter project:
+1. Клонируйте этот репозиторий на свой локальный компьютер.
+2. Убедитесь, что у вас установлен Flutter на вашем компьютере. Если нет, следуйте [инструкциям по установке Flutter](https://flutter.dev/docs/get-started/install).
+3. Откройте проект в вашей любимой IDE или текстовом редакторе.
+4. Запустите `flutter pub get`, чтобы установить зависимости.
+5. Подключите ваше устройство или запустите симулятор.
+6. Выполните `flutter run`, чтобы запустить приложение.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Функции
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Добавление новых задач с указанием заголовка, приоритета и дедлайна.
+- Изменение задач.
+- Просмотр списка задач, отсортированных по приоритету и дедлайну.
+- Отметка задач как выполненных.
+- Удаление задач.
+
+## Вклад
+
+Вклад в проект приветствуется! Если вы нашли какие-либо проблемы или у вас есть предложения по улучшению, пожалуйста, создайте issue или отправьте pull request.
